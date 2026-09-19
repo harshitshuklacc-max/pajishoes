@@ -1,0 +1,6 @@
+{
+  "name": "Paji Shoes Durg",
+  "description": "Premium footwear store in Durg, Chhattisgarh offering sports, formal, ethnic & casual shoes with WhatsApp booking and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
